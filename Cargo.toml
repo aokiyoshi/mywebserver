@@ -11,4 +11,4 @@ tinytemplate = "1.1"
 serde = { version = "1.0", features = ["derive"] }
 serde_derive = "1.0.139"
 askama = "0.10"
-sea-orm = "0.9.0"
+sqlite = "0.30.1"
